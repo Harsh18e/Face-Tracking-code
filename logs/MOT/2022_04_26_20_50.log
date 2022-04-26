@@ -1,0 +1,10 @@
+2022-04-26 20:50:00,958 - MOT - INFO - Start track and extract...... -  MainThread - 4208 
+2022-04-26 20:50:02,143 - MOT - INFO - All files:video.mp4 -  MainThread - 4208 
+2022-04-26 20:50:02,143 - MOT - INFO - Video_name:videos\video.mp4 -  MainThread - 4208 
+2022-04-26 20:50:02,715 - MOT - INFO - MTCNN detect face cost time : 0.51 s -  MainThread - 4208 
+2022-04-26 20:50:02,715 - MOT - INFO - new Tracker: 1 -  MainThread - 4208 
+2022-04-26 20:50:02,715 - MOT - INFO - new Tracker: 2 -  MainThread - 4208 
+2022-04-26 20:50:02,715 - MOT - INFO - new Tracker: 3 -  MainThread - 4208 
+2022-04-26 20:50:02,715 - MOT - INFO - new Tracker: 4 -  MainThread - 4208 
+2022-04-26 20:50:02,715 - MOT - INFO - new Tracker: 5 -  MainThread - 4208 
+2022-04-26 20:50:02,715 - MOT - INFO - new Tracker: 6 -  MainThread - 4208 

@@ -1,0 +1,108 @@
+2022-04-18 13:04:58,303 - MOT - INFO - Start track and extract...... -  MainThread - 7224 
+2022-04-18 13:05:00,646 - MOT - INFO - All files:video.mp4 -  MainThread - 7224 
+2022-04-18 13:05:00,646 - MOT - INFO - Video_name:videos\video.mp4 -  MainThread - 7224 
+2022-04-18 13:05:02,771 - MOT - INFO - MTCNN detect face cost time : 1.375 s -  MainThread - 7224 
+2022-04-18 13:05:02,881 - MOT - INFO - new Tracker: 1 -  MainThread - 7224 
+2022-04-18 13:05:02,881 - MOT - INFO - new Tracker: 2 -  MainThread - 7224 
+2022-04-18 13:05:02,881 - MOT - INFO - new Tracker: 3 -  MainThread - 7224 
+2022-04-18 13:05:02,896 - MOT - INFO - new Tracker: 4 -  MainThread - 7224 
+2022-04-18 13:05:02,896 - MOT - INFO - new Tracker: 5 -  MainThread - 7224 
+2022-04-18 13:05:02,896 - MOT - INFO - new Tracker: 6 -  MainThread - 7224 
+2022-04-18 13:05:03,728 - MOT - INFO - MTCNN detect face cost time : 0.704 s -  MainThread - 7224 
+2022-04-18 13:05:05,078 - MOT - INFO - MTCNN detect face cost time : 0.703 s -  MainThread - 7224 
+2022-04-18 13:05:05,843 - MOT - INFO - MTCNN detect face cost time : 0.734 s -  MainThread - 7224 
+2022-04-18 13:05:06,609 - MOT - INFO - MTCNN detect face cost time : 0.75 s -  MainThread - 7224 
+2022-04-18 13:05:07,343 - MOT - INFO - MTCNN detect face cost time : 0.719 s -  MainThread - 7224 
+2022-04-18 13:05:08,077 - MOT - INFO - MTCNN detect face cost time : 0.703 s -  MainThread - 7224 
+2022-04-18 13:05:08,077 - MOT - INFO - new Tracker: 7 -  MainThread - 7224 
+2022-04-18 13:05:08,764 - MOT - INFO - MTCNN detect face cost time : 0.672 s -  MainThread - 7224 
+2022-04-18 13:05:09,467 - MOT - INFO - MTCNN detect face cost time : 0.656 s -  MainThread - 7224 
+2022-04-18 13:05:10,202 - MOT - INFO - MTCNN detect face cost time : 0.719 s -  MainThread - 7224 
+2022-04-18 13:05:10,202 - MOT - INFO - remove tracker: 7 -  MainThread - 7224 
+2022-04-18 13:05:10,905 - MOT - INFO - MTCNN detect face cost time : 0.687 s -  MainThread - 7224 
+2022-04-18 13:05:11,608 - MOT - INFO - MTCNN detect face cost time : 0.672 s -  MainThread - 7224 
+2022-04-18 13:05:12,310 - MOT - INFO - MTCNN detect face cost time : 0.672 s -  MainThread - 7224 
+2022-04-18 13:05:13,029 - MOT - INFO - MTCNN detect face cost time : 0.687 s -  MainThread - 7224 
+2022-04-18 13:05:13,748 - MOT - INFO - MTCNN detect face cost time : 0.687 s -  MainThread - 7224 
+2022-04-18 13:05:14,483 - MOT - INFO - MTCNN detect face cost time : 0.72 s -  MainThread - 7224 
+2022-04-18 13:05:15,217 - MOT - INFO - MTCNN detect face cost time : 0.719 s -  MainThread - 7224 
+2022-04-18 13:05:15,936 - MOT - INFO - MTCNN detect face cost time : 0.703 s -  MainThread - 7224 
+2022-04-18 13:05:16,655 - MOT - INFO - MTCNN detect face cost time : 0.703 s -  MainThread - 7224 
+2022-04-18 13:05:17,342 - MOT - INFO - MTCNN detect face cost time : 0.672 s -  MainThread - 7224 
+2022-04-18 13:05:18,076 - MOT - INFO - MTCNN detect face cost time : 0.702 s -  MainThread - 7224 
+2022-04-18 13:05:18,810 - MOT - INFO - MTCNN detect face cost time : 0.703 s -  MainThread - 7224 
+2022-04-18 13:05:19,544 - MOT - INFO - MTCNN detect face cost time : 0.703 s -  MainThread - 7224 
+2022-04-18 13:05:20,294 - MOT - INFO - MTCNN detect face cost time : 0.734 s -  MainThread - 7224 
+2022-04-18 13:05:21,044 - MOT - INFO - MTCNN detect face cost time : 0.719 s -  MainThread - 7224 
+2022-04-18 13:05:21,778 - MOT - INFO - MTCNN detect face cost time : 0.719 s -  MainThread - 7224 
+2022-04-18 13:05:22,512 - MOT - INFO - MTCNN detect face cost time : 0.719 s -  MainThread - 7224 
+2022-04-18 13:05:23,263 - MOT - INFO - MTCNN detect face cost time : 0.72 s -  MainThread - 7224 
+2022-04-18 13:05:23,997 - MOT - INFO - MTCNN detect face cost time : 0.719 s -  MainThread - 7224 
+2022-04-18 13:05:24,185 - MOT - INFO - remove tracker: 4 -  MainThread - 7224 
+2022-04-18 13:05:24,919 - MOT - INFO - MTCNN detect face cost time : 0.719 s -  MainThread - 7224 
+2022-04-18 13:05:25,669 - MOT - INFO - MTCNN detect face cost time : 0.734 s -  MainThread - 7224 
+2022-04-18 13:05:26,403 - MOT - INFO - MTCNN detect face cost time : 0.719 s -  MainThread - 7224 
+2022-04-18 13:05:26,403 - MOT - INFO - remove tracker: 1 -  MainThread - 7224 
+2022-04-18 13:05:27,122 - MOT - INFO - MTCNN detect face cost time : 0.703 s -  MainThread - 7224 
+2022-04-18 13:05:27,824 - MOT - INFO - MTCNN detect face cost time : 0.687 s -  MainThread - 7224 
+2022-04-18 13:05:28,544 - MOT - INFO - MTCNN detect face cost time : 0.704 s -  MainThread - 7224 
+2022-04-18 13:05:28,544 - MOT - INFO - new Tracker: 8 -  MainThread - 7224 
+2022-04-18 13:05:29,269 - MOT - INFO - MTCNN detect face cost time : 0.709 s -  MainThread - 7224 
+2022-04-18 13:05:29,269 - MOT - INFO - remove tracker: 8 -  MainThread - 7224 
+2022-04-18 13:05:29,269 - MOT - INFO - remove tracker: 3 -  MainThread - 7224 
+2022-04-18 13:05:29,956 - MOT - INFO - MTCNN detect face cost time : 0.672 s -  MainThread - 7224 
+2022-04-18 13:05:30,659 - MOT - INFO - MTCNN detect face cost time : 0.672 s -  MainThread - 7224 
+2022-04-18 13:05:31,331 - MOT - INFO - MTCNN detect face cost time : 0.656 s -  MainThread - 7224 
+2022-04-18 13:05:32,034 - MOT - INFO - MTCNN detect face cost time : 0.687 s -  MainThread - 7224 
+2022-04-18 13:05:32,721 - MOT - INFO - MTCNN detect face cost time : 0.656 s -  MainThread - 7224 
+2022-04-18 13:05:33,393 - MOT - INFO - MTCNN detect face cost time : 0.656 s -  MainThread - 7224 
+2022-04-18 13:05:34,096 - MOT - INFO - MTCNN detect face cost time : 0.672 s -  MainThread - 7224 
+2022-04-18 13:05:34,768 - MOT - INFO - MTCNN detect face cost time : 0.656 s -  MainThread - 7224 
+2022-04-18 13:05:35,455 - MOT - INFO - MTCNN detect face cost time : 0.656 s -  MainThread - 7224 
+2022-04-18 13:05:36,137 - MOT - INFO - MTCNN detect face cost time : 0.666 s -  MainThread - 7224 
+2022-04-18 13:05:36,824 - MOT - INFO - MTCNN detect face cost time : 0.672 s -  MainThread - 7224 
+2022-04-18 13:05:37,520 - MOT - INFO - MTCNN detect face cost time : 0.664 s -  MainThread - 7224 
+2022-04-18 13:05:38,238 - MOT - INFO - MTCNN detect face cost time : 0.703 s -  MainThread - 7224 
+2022-04-18 13:05:38,238 - MOT - INFO - new Tracker: 9 -  MainThread - 7224 
+2022-04-18 13:05:38,959 - MOT - INFO - MTCNN detect face cost time : 0.705 s -  MainThread - 7224 
+2022-04-18 13:05:39,678 - MOT - INFO - MTCNN detect face cost time : 0.703 s -  MainThread - 7224 
+2022-04-18 13:05:39,678 - MOT - INFO - new Tracker: 10 -  MainThread - 7224 
+2022-04-18 13:05:40,397 - MOT - INFO - MTCNN detect face cost time : 0.703 s -  MainThread - 7224 
+2022-04-18 13:05:41,118 - MOT - INFO - MTCNN detect face cost time : 0.706 s -  MainThread - 7224 
+2022-04-18 13:05:41,836 - MOT - INFO - MTCNN detect face cost time : 0.703 s -  MainThread - 7224 
+2022-04-18 13:05:42,555 - MOT - INFO - MTCNN detect face cost time : 0.703 s -  MainThread - 7224 
+2022-04-18 13:05:43,274 - MOT - INFO - MTCNN detect face cost time : 0.703 s -  MainThread - 7224 
+2022-04-18 13:05:44,008 - MOT - INFO - MTCNN detect face cost time : 0.719 s -  MainThread - 7224 
+2022-04-18 13:05:44,742 - MOT - INFO - MTCNN detect face cost time : 0.703 s -  MainThread - 7224 
+2022-04-18 13:05:45,476 - MOT - INFO - MTCNN detect face cost time : 0.703 s -  MainThread - 7224 
+2022-04-18 13:05:46,210 - MOT - INFO - MTCNN detect face cost time : 0.719 s -  MainThread - 7224 
+2022-04-18 13:05:46,918 - MOT - INFO - MTCNN detect face cost time : 0.692 s -  MainThread - 7224 
+2022-04-18 13:05:47,621 - MOT - INFO - MTCNN detect face cost time : 0.687 s -  MainThread - 7224 
+2022-04-18 13:05:48,377 - MOT - INFO - MTCNN detect face cost time : 0.724 s -  MainThread - 7224 
+2022-04-18 13:05:49,111 - MOT - INFO - MTCNN detect face cost time : 0.719 s -  MainThread - 7224 
+2022-04-18 13:05:49,829 - MOT - INFO - MTCNN detect face cost time : 0.703 s -  MainThread - 7224 
+2022-04-18 13:05:50,552 - MOT - INFO - MTCNN detect face cost time : 0.707 s -  MainThread - 7224 
+2022-04-18 13:05:51,271 - MOT - INFO - MTCNN detect face cost time : 0.703 s -  MainThread - 7224 
+2022-04-18 13:05:51,989 - MOT - INFO - MTCNN detect face cost time : 0.687 s -  MainThread - 7224 
+2022-04-18 13:05:52,692 - MOT - INFO - MTCNN detect face cost time : 0.687 s -  MainThread - 7224 
+2022-04-18 13:05:53,427 - MOT - INFO - MTCNN detect face cost time : 0.703 s -  MainThread - 7224 
+2022-04-18 13:05:54,161 - MOT - INFO - MTCNN detect face cost time : 0.719 s -  MainThread - 7224 
+2022-04-18 13:05:54,895 - MOT - INFO - MTCNN detect face cost time : 0.703 s -  MainThread - 7224 
+2022-04-18 13:05:55,613 - MOT - INFO - MTCNN detect face cost time : 0.703 s -  MainThread - 7224 
+2022-04-18 13:05:56,348 - MOT - INFO - MTCNN detect face cost time : 0.719 s -  MainThread - 7224 
+2022-04-18 13:05:57,066 - MOT - INFO - MTCNN detect face cost time : 0.703 s -  MainThread - 7224 
+2022-04-18 13:05:57,817 - MOT - INFO - MTCNN detect face cost time : 0.719 s -  MainThread - 7224 
+2022-04-18 13:05:58,551 - MOT - INFO - MTCNN detect face cost time : 0.719 s -  MainThread - 7224 
+2022-04-18 13:05:58,551 - MOT - INFO - remove tracker: 5 -  MainThread - 7224 
+2022-04-18 13:05:59,301 - MOT - INFO - MTCNN detect face cost time : 0.719 s -  MainThread - 7224 
+2022-04-18 13:05:59,301 - MOT - INFO - new Tracker: 11 -  MainThread - 7224 
+2022-04-18 13:06:00,020 - MOT - INFO - MTCNN detect face cost time : 0.703 s -  MainThread - 7224 
+2022-04-18 13:06:00,754 - MOT - INFO - MTCNN detect face cost time : 0.703 s -  MainThread - 7224 
+2022-04-18 13:06:01,488 - MOT - INFO - MTCNN detect face cost time : 0.703 s -  MainThread - 7224 
+2022-04-18 13:06:02,228 - MOT - INFO - MTCNN detect face cost time : 0.709 s -  MainThread - 7224 
+2022-04-18 13:06:02,956 - MOT - INFO - MTCNN detect face cost time : 0.697 s -  MainThread - 7224 
+2022-04-18 13:06:03,715 - MOT - INFO - MTCNN detect face cost time : 0.703 s -  MainThread - 7224 
+2022-04-18 13:06:04,480 - MOT - INFO - MTCNN detect face cost time : 0.703 s -  MainThread - 7224 
+2022-04-18 13:06:04,480 - MOT - INFO - remove tracker: 11 -  MainThread - 7224 
+2022-04-18 13:06:05,228 - MOT - INFO - MTCNN detect face cost time : 0.733 s -  MainThread - 7224 
+2022-04-18 13:06:05,228 - MOT - INFO - new Tracker: 12 -  MainThread - 7224 
